@@ -1,2 +1,2 @@
 # patches
-Release updated for Atmosphere.NX 0.18.0 (FW 11.0.1)
+Release updated for Atmosphere.NX 0.19.3 (FW 12.0.2)
