@@ -1,2 +1,2 @@
 # patches
-Release updated for Atmosphere.NX 0.19.5 (FW 12.1.0)
+Release updated for Atmosphere.NX 1.3.2 (FW 14.1.1)
